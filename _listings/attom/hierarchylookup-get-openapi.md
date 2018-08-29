@@ -4,10 +4,10 @@ x-collection-name: ATTOM
 x-complete: 0
 info:
   title: Attom Data Solutions API Returns all boundaries a point falls within.
-  version: 1.0.0
   description: This method allows you to pass a latitude and longitude point and geo
     type to retrieve a list of geographies that point falls within. Required input
     is a valid WKT (Well Known Text) point.
+  version: 1.0.0
 host: search.onboard-apis.com
 basePath: /communityapi/v2.0.0
 schemes:

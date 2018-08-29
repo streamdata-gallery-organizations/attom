@@ -5,9 +5,9 @@ x-complete: 0
 info:
   title: Attom Data Solutions API Returns basic property information and most recent
     transaction and taxes.
-  version: 1.0.0
   description: Get basic property information and most recent transaction and taxes
     for a specific attom id.
+  version: 1.0.0
 host: search.onboard-apis.com
 basePath: /communityapi/v2.0.0
 schemes:

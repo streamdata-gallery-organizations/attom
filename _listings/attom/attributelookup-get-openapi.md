@@ -4,9 +4,9 @@ x-collection-name: ATTOM
 x-complete: 0
 info:
   title: Attom Data Solutions API Returns available data fields.
-  version: 1.0.0
   description: This lookup returns the full list of over 375 data fields that are
     available in the Community API.
+  version: 1.0.0
 host: search.onboard-apis.com
 basePath: /communityapi/v2.0.0
 schemes:

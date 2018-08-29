@@ -5,9 +5,9 @@ x-complete: 0
 info:
   title: Attom Data Solutions API Return all schools within a defined radius from
     a point.
-  version: 1.0.0
   description: Search for all schools that are located within a given radius around
     a given latitude and longitude.
+  version: 1.0.0
 host: search.onboard-apis.com
 basePath: /communityapi/v2.0.0
 schemes:

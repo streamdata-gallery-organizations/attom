@@ -4,9 +4,9 @@ x-collection-name: ATTOM
 x-complete: 0
 info:
   title: Attom Data Solutions API Returns lines of business categories.
-  version: 1.0.0
   description: This lookup can be used to show the full list of Lines of Businesses
     (LOB), and which categories they belong to.
+  version: 1.0.0
 host: search.onboard-apis.com
 basePath: /communityapi/v2.0.0
 schemes:

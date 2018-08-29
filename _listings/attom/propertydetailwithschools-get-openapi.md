@@ -5,9 +5,9 @@ x-complete: 0
 info:
   title: Attom Data Solutions API Return schools within the attendance boundary of
     a property.
-  version: 1.0.0
   description: Search for a property to have the property details returned, along
     with the schools in the associated attendance zones.
+  version: 1.0.0
 host: search.onboard-apis.com
 basePath: /communityapi/v2.0.0
 schemes:

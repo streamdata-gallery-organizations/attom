@@ -5,9 +5,9 @@ x-complete: 0
 info:
   title: Attom Data Solutions API Returns properties and their characteristics that
     fit a criteria.
-  version: 1.0.0
   description: Get a list of property snapshots within a specific city that are within
     a desired size range and a specific property type.
+  version: 1.0.0
 host: search.onboard-apis.com
 basePath: /communityapi/v2.0.0
 schemes:

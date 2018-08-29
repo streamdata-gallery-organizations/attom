@@ -4,9 +4,9 @@ x-collection-name: ATTOM
 x-complete: 0
 info:
   title: Attom Data Solutions API Returns a list of properties that fit a criteria.
-  version: 1.0.0
   description: Get a list of property IDs within a specific geography that have a
     specific number of beds. Use orderby to choose how you want your results sorted.
+  version: 1.0.0
 host: search.onboard-apis.com
 basePath: /communityapi/v2.0.0
 schemes:

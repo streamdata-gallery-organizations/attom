@@ -5,8 +5,8 @@ x-complete: 0
 info:
   title: Attom Data Solutions API Returns the Attomized AVM and other property details
     .
-  version: 1.0.0
   description: Get Attomized AVM and other property details for a specific address.
+  version: 1.0.0
 host: search.onboard-apis.com
 basePath: /communityapi/v2.0.0
 schemes:

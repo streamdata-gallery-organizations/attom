@@ -4,8 +4,8 @@ x-collection-name: ATTOM
 x-complete: 0
 info:
   title: Attom Data Solutions API Returns sales history for a property.
-  version: 1.0.0
   description: Get a sales history snapshot of a property based on an address.
+  version: 1.0.0
 host: search.onboard-apis.com
 basePath: /communityapi/v2.0.0
 schemes:

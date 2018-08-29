@@ -4,10 +4,10 @@ x-collection-name: ATTOM
 x-complete: 0
 info:
   title: Attom Data Solutions API Returns AVM details within a geography.
-  version: 1.0.0
   description: Get a list of AVM snapshot records that fall within an Onboard GeoID
     with a specific value range. Use propertytpe to select a specific property type
     for your search.
+  version: 1.0.0
 host: search.onboard-apis.com
 basePath: /communityapi/v2.0.0
 schemes:

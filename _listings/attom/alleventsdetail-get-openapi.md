@@ -5,9 +5,9 @@ x-complete: 0
 info:
   title: Attom Data Solutions API Returns all the events that have occurred on a specific
     address.
-  version: 1.0.0
   description: Get a detail of all the events on a specific property based on its
     address.
+  version: 1.0.0
 host: search.onboard-apis.com
 basePath: /communityapi/v2.0.0
 schemes:

@@ -5,9 +5,9 @@ x-complete: 0
 info:
   title: Attom Data Solutions API Returns basic transaction and loan history on a
     property.
-  version: 1.0.0
   description: Get the basic transaction and loan history on a property for a specific
     address.
+  version: 1.0.0
 host: search.onboard-apis.com
 basePath: /communityapi/v2.0.0
 schemes:
